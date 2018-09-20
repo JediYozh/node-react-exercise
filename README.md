@@ -25,16 +25,10 @@ Intitial data you can find in `data.json` file.
 
 #### 1. Sign up on GitHub if you're aren't
 
-#### 2. Fork this project
-
-Click "Fork" button in top right corner of this window and this project will automatically cloned to your account.
+#### 2. Clone project to your computer
 
 #### 3. Create a branch with your name
 
-#### 4. Clone project to your computer
-
-#### 5. Once you finished make commit and push to your repo
-
-#### 6. Make pull request to the main repository from your repo (and from branch that you created)
+#### 4. Once you finished make commit and push the branch you created to the repo
 
 ---
